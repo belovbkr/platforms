@@ -1,0 +1,19 @@
+{
+  "name": "@belovbkr/platforms-first",
+  "version": "1.0.0",
+  "description": "Hello, platforms!",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belovbkr/platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belovbkr/platforms/issues"
+  },
+  "homepage": "https://github.com/belovbkr/platforms#readme"
+}
