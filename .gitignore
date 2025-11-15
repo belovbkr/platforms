@@ -87,4 +87,3 @@ typings/
 .dynamodb/
 
 token.txt
-dist/
